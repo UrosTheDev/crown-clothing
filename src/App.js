@@ -1,5 +1,5 @@
 import React from 'react';
-import Homepage from './components/Homepage/Homepage';
+import Homepage from './pages/homepage/homepage';
 
 import './App.scss';
 
@@ -9,6 +9,10 @@ function App() {
             <h1>Hello World</h1>
 
             <Homepage />
+
+
+
+
         </div>
     );
 }
