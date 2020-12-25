@@ -7,7 +7,6 @@ const Homepage = () => {
     return (
         <div className='homepage'>
             <Directory />
-          
         </div>
     )
 }
